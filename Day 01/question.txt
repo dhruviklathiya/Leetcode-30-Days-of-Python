@@ -1,0 +1,11 @@
+Problem Statement: Longest Consecutive Sequence
+Given an unsorted array of integers, return the length of the longest sequence of consecutive numbers.
+
+A consecutive sequence means the numbers appear in any order but form a sequence like 1, 2, 3, 4.
+
+You must write an algorithm that runs in O(n) time complexity.
+
+Constraints
+0 <= nums.length <= 10^5
+-10^9 <= nums[i] <= 10^9
+The input list may contain duplicate numbers, but they should be ignored in counting sequences.
