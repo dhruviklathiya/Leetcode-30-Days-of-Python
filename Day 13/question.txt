@@ -1,0 +1,10 @@
+Given an array of integers, find the first missing positive integer in O(n) time complexity and constant extra space.
+
+Input: nums = [1, 2, 0]
+Output: 3
+
+Input: nums = [3, 4, -1, 1]
+Output: 2
+
+Input: nums = [7, 8, 9, 11, 12]
+Output: 1
