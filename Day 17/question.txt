@@ -1,0 +1,13 @@
+You are given an array of integers nums where each integer appears twice except for one element that appears only once.
+Find and return the element that appears only once.
+You must implement a solution with linear runtime complexity (O(n)) and use constant extra space (O(1)).
+
+Input: nums = [2, 2, 1]
+Output: 1
+
+
+Input: nums = [4, 1, 2, 1, 2]
+Output: 4
+
+Input: nums = [1]
+Output: 1
